@@ -1,0 +1,4 @@
+Observação:
+     No programa, fazia referência ao diretório Servidor.
+     Criei o referido diretório, caso, não fosse para criá-lo,
+     basta modificar a referência no programa.

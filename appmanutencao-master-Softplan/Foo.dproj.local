@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/12 13:36:05.000.791,=C:\appmanutencao-master-Softplan\Unit1.pas</Transaction>
+    <Transaction>2022/03/12 13:38:22.000.589,C:\appmanutencao-master-Softplan\Threads.pas=C:\appmanutencao-master-Softplan\Unit1.pas</Transaction>
+    <Transaction>2022/03/12 13:38:22.000.589,C:\appmanutencao-master-Softplan\Threads.dfm=C:\appmanutencao-master-Softplan\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
